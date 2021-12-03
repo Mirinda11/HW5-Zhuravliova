@@ -1,0 +1,42 @@
+body{
+    width: 100%;
+}
+
+table{
+    width: 600px;
+    height: 170px;
+font-family: 'Roboto', sans-serif;;
+color: white;
+background-color:  #2C2C2C;
+border-radius: 10px;
+}
+
+td{
+    height: 40px;
+    border-right-style: groove ;
+}
+
+.time{
+    width: 200px;
+    text-align: center;
+    opacity: 30%;
+}
+
+.dots{
+    width: 200px;
+    text-align: right;
+}
+
+.file{
+    text-align: left;
+    width: 200px;
+}
+
+thead .file{
+    width: 300px;
+}
+
+thead .time{
+    width: 300px;
+    text-align: left;
+}
